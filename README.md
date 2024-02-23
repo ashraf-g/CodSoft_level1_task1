@@ -14,4 +14,3 @@ To view the landing page click on link [CodSoft 1st Task Landing Page](https://a
 
 ---
 
-© 2024 Gulam Ashraf. All rights reserved.
